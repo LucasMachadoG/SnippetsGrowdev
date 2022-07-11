@@ -1,0 +1,30 @@
+{
+    "name": "growdevsnippets",
+    "displayName": "GrowdevSnippets",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Growdev",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "repository": {
+		"type": "git",
+		"url": ""
+	},
+    "keywords": [
+        "snippets",
+        "growdev",
+        "Lucasmachado"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

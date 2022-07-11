@@ -1,0 +1,11 @@
+{
+    "Snippets growdev": {
+        "prefix": "oi",
+        "body": [
+          "function testeteste (){",
+          "  console.log(\"Isso eh apenas um teste 2222\")",
+          "}"
+        ],
+        "description": "Snippets growdev"
+      }
+}
